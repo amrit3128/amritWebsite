@@ -11,28 +11,14 @@ I'm a proponent of free and open-source software, and I try to self-host as many
 
 > Are you interested in my work? Review my <a href="http://portfolio.amritcodes.xyz" target="_blank">portfolio</a>.
 
+----------
+
 
 {% crt() %}
 ```
- _______________________________________ 
-/ In every non-trivial program there is \
-\ at least one bug.                     /
- --------------------------------------- 
-      \                    / \  //\
-       \    |\___/|      /   \//  \\
-            /0  0  \__  /    //  | \ \    
-           /     /  \/_/    //   |  \  \  
-           @_^_@'/   \/_   //    |   \   \ 
-           //_^_/     \/_ //     |    \    \
-        ( //) |        \///      |     \     \
-      ( / /) _|_ /   )  //       |      \     _\
-    ( // /) '/,_ _ _/  ( ; -.    |    _ _\.-~        .-~~~^-.
-  (( / / )) ,-{        _      `-.|.-~-.           .~         `.
- (( // / ))  '/\      /                 ~-. _ .-~      .-~^-.  \
- (( /// ))      `.   {            }                   /      \  \
-  (( / ))     .----~-.\        \-'                 .~         \  `. \^-.
-             ///.----..>        \             _ -~             `.  ^-`  ^
-               ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-
-                                                                  /.-~
+[amrit@archlinux ~]$ fortune
+To doubt everything or to believe everything are two equally convenient
+solutions; both dispense with the necessity of reflection.
+		-- H. Poincare
 ```
 {% end %}
